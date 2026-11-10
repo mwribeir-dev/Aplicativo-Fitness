@@ -1,0 +1,7 @@
+{
+  "name": "NutriFit Pro - Motor Inteligente de Nutrição Esportiva",
+  "description": "Plataforma SaaS com motor inteligente de nutrição esportiva e cálculo de macros, cardápios fit proteicos e rotinas semanais para frequentadores de academia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
